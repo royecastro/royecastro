@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royecastro&label=Profile%20views&color=0e75b6&style=flat" alt="royecastro" /> </p>
 
-- 👯 I’m looking to collaborate on **Data engineering projects**
+- 👯 I’m looking to collaborate on **data engineering projects, data modeling, data cleansing, etc.**
 
-- 🤝 I’m looking for help with **Apache Spark**
+<!-- - 🤝 I’m looking for help with **Apache Spark** -->
 
 - 📫 How to reach me **roy.e.castro@gmail.com**
 
